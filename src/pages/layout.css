@@ -1,0 +1,46 @@
+.bar{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+
+}
+.bar ul{
+    display: flex;
+    text-decoration: none;
+    color: #fff;
+}
+.bar ul li{
+    padding: 10px;
+    list-style: none;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.find{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.find input{
+    width: 450px;
+    height: 35px;
+    margin-left: 50px;
+    background-color: #f4f4f4;
+    border: none;
+}
+.find form button{
+    height: 35px;
+    width: 40px;
+    border: none;
+    background-color: #f4f4f4;
+}
+.find ul{
+    display: flex;
+    text-decoration: none;
+}
+.find ul li{
+    list-style: none;
+    padding: 0 20px;
+    color: black;
+}
