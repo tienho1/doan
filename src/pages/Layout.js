@@ -15,7 +15,7 @@ const Layout = () => {
         <div>
             <div className='find'>
                 <a className='navbar-brand' href='#'>
-                    <img src='/img/logo.jpg'></img>
+                    <img src="//theme.hstatic.net/200000692427/1001117622/14/logo.png?v=4750" width={150}/>
                 </a>
                 <form class="example" action="searching_page.php">
                     <input type="text" placeholder="Nhập Tên Sản Phẩm Cần Tìm ..." name="search"/>
